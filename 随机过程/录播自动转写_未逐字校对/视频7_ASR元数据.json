@@ -1,0 +1,12 @@
+{
+  "file": "视频7.mp4",
+  "asr": {
+    "segments": 1990,
+    "duration": 5284.258,
+    "elapsed": 173.1523723602295,
+    "model": "small",
+    "language": "zh"
+  },
+  "characters": 20070,
+  "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified"
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "path": "AI接续教学提示.txt",
+    "bytes": 1587,
+    "sha256": "c35716993714c459d6954d102ea616f10b4a7b4d245b3427c60790507af6ff1f"
+  },
+  {
+    "path": "交付核对说明.md",
+    "bytes": 1843,
+    "sha256": "e1697d008437fc445cd1e8eaa2f14e9eace22217b0c0ea3031c9058217c3a91f"
+  },
+  {
+    "path": "先读我.md",
+    "bytes": 2297,
+    "sha256": "932e147ca4538f7e4d7227866a1ddb124d4638b4c2d31916c2ef054f4e4fc391"
+  },
+  {
+    "path": "分章/00_使用说明与AI接续教学.md",
+    "bytes": 7901,
+    "sha256": "15e21a45fa6e5c0076a73622d28f9e0de6533ff2f79e71e87df36ef3fecb4ab1"
+  },
+  {
+    "path": "分章/01_概率基础回顾.md",
+    "bytes": 9192,
+    "sha256": "c2c4d7a1bf984f5b50d000ba5315c353744327ff625228ea3e09212a668b2f08"
+  },
+  {
+    "path": "分章/02_随机过程与平稳独立增量.md",
+    "bytes": 9893,
+    "sha256": "978e529bbf5b8799734d248c1790090fac7e4a0170d5bc31a650eb1ff5a82762"
+  },
+  {
+    "path": "分章/03_条件期望变换与收敛.md",
+    "bytes": 7162,
+    "sha256": "04c0af3bc79a545d11ba821a818a5cf080168f55685e700a97bddf92b69b2cef"
+  },
+  {
+    "path": "分章/04_Poisson过程及相关分布.md",
+    "bytes": 10651,
+    "sha256": "fa1dce36525322b9656a6a2e348be512f6c614c5499a92a08a32c3fbeb937f7f"
+  },
+  {
+    "path": "分章/05_Poisson过程的推广.md",
+    "bytes": 9243,
+    "sha256": "f32df67ef959250393a35f16680a35f26bbbf62d6642a55c55209bf87f61221d"
+  },
+  {
+    "path": "分章/06_Markov链定义与计算.md",
+    "bytes": 8538,
+    "sha256": "81ff4e81bd625c8b50ca7c67da56b5a24bab5d1b536e4c997b142523624cedfd"
+  },
+  {
+    "path": "分章/07_Markov链状态分类.md",
+    "bytes": 11202,
+    "sha256": "0f0cf41311e94560ed297d4900df72ca1785f41787e427b60093021cae982251"
+  },
+  {
+    "path": "分章/08_极限分布与平稳分布.md",
+    "bytes": 8836,
+    "sha256": "3b286cf20ab77233384c4c070471e085e776b55b64316271c49b9f81976d908d"
+  },
+  {
+    "path": "分章/09_录播补充与来源索引.md",
+    "bytes": 11236,
+    "sha256": "1d0148d55e5c4e2d930c0a8755d48f29fc477d719ca0df9ea9ed32f1b710d868"
+  },
+  {
+    "path": "分章/10_勘误与公式核对.md",
+    "bytes": 5642,
+    "sha256": "df7027e02f4fbfb0fb0587935e8de440847cce7e17f6d5b906584c29fb3839f5"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频3.srt",
+    "bytes": 59027,
+    "sha256": "46e01aee13cbd46a22b84096b347d660cf4e2de6d266690cbd219aaccc43d8a4"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频3_ASR元数据.json",
+    "bytes": 326,
+    "sha256": "97d4aef54d13c7a3c94959f9b1345d64cd38a60d396e0f919130f75fc1448bed"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频3_带时间戳转写.md",
+    "bytes": 47493,
+    "sha256": "2aaf974a72ab21e0133b0179234a08b378b5b4a8a19efcba4ae3b85c076d4b09"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频4.srt",
+    "bytes": 99298,
+    "sha256": "0a39c00917884d306717a8177cd1c497b5355b17262e931543df11f237a9b785"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频4_ASR元数据.json",
+    "bytes": 331,
+    "sha256": "dfc21942a228058ce5a05b66e2def66da28fd5286fd93f4843886b92ef8733b0"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频4_带时间戳转写.md",
+    "bytes": 79028,
+    "sha256": "45fb50a8507a798ae19c5ce630d8d58589280d59c85dc6a072166695f6117032"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频5.srt",
+    "bytes": 168347,
+    "sha256": "5e0f1bf00df3e3763bcb61508d96ff11aa263f3354faff45abfbb6ced7087f92"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频5_ASR元数据.json",
+    "bytes": 330,
+    "sha256": "bf92c15187d1c7cb1599907b8016504e69457543510e7a4667e986d69d569459"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频5_带时间戳转写.md",
+    "bytes": 132927,
+    "sha256": "cf160a7d8071516032972c9c14bfa96b93268fc978a1d1e9b0e9349a36ae2a4c"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频6.srt",
+    "bytes": 139943,
+    "sha256": "79bcbef7109bd50476ca6e006eb0491413bad9fb3c1894d4682ad7e4e7d37dfa"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频6_ASR元数据.json",
+    "bytes": 331,
+    "sha256": "694a4c5b0984b44a53c1253332e980031a8149cdf23b812659dac09feae0e9fd"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频6_带时间戳转写.md",
+    "bytes": 110463,
+    "sha256": "031057c083df1fbdeeeb04272dea282c115b2b7ee3931aff2f9282751f00152d"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频7.srt",
+    "bytes": 137722,
+    "sha256": "d60a9458a93b16d147954e67d9ec4c4b41eab4aea6fffa4e93e3a43cea3fba3b"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频7_ASR元数据.json",
+    "bytes": 326,
+    "sha256": "39c0b435b650a52b591d7f01f1646d4a97978714582371dfc2e2ee5d596b525a"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/视频7_带时间戳转写.md",
+    "bytes": 109307,
+    "sha256": "42d6b44d13c3039deaa142edb7964dccd09d714ef5fcd061e8ec229e83cca1e7"
+  },
+  {
+    "path": "录播自动转写_未逐字校对/阅读说明.md",
+    "bytes": 374,
+    "sha256": "d7c29492d849c5fc943b80c537971e444f82599c1bd14b554e8c22ed774c1588"
+  },
+  {
+    "path": "数学字体许可_KaTeX.txt",
+    "bytes": 1107,
+    "sha256": "766ccc1f306c885aa45542a9846bbd0a505b27a0374f146778171c2254ce18e3"
+  },
+  {
+    "path": "核对画面/视频7_40分00秒_蚂蚁例题.jpg",
+    "bytes": 106611,
+    "sha256": "c2de1a83150006b31fc26398230d2a96d2a5a8ad2575c79c1cd46893155828be"
+  },
+  {
+    "path": "资料清单与核实范围.json",
+    "bytes": 5362,
+    "sha256": "8ebe295deca758c09211445b1849b605919b16e49e9fb2cbc7b8bfc1bbe5fa55"
+  },
+  {
+    "path": "逐页来源索引.csv",
+    "bytes": 23692,
+    "sha256": "67f66884d91649e21737763093df48c027ed90ab695c47c93a52abbfe5621520"
+  },
+  {
+    "path": "随机过程_完整讲义.md",
+    "bytes": 100644,
+    "sha256": "7c714595abf70adfa9df9ca6e60b282c5067a0b4f368f88ee6529374c2b7e7f7"
+  },
+  {
+    "path": "随机过程_离线阅读版.html",
+    "bytes": 2277178,
+    "sha256": "a767177bcc34b273aabe3193c68fcba27583c7c5f7d9d8fee33071c388a1d4d5"
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-07",
+  "sources": [
+    {
+      "file": "课件1.pdf",
+      "source_path": "D:\\Downloads\\课件1.pdf",
+      "bytes": 6465065,
+      "sha256": "a88872c61ceecc9b0b4957e67399f8a78c85af864e9da37c1952d68bb0f25c50",
+      "pages": 81,
+      "review": "page_images_read"
+    },
+    {
+      "file": "课件2.pdf",
+      "source_path": "D:\\Downloads\\课件2.pdf",
+      "bytes": 2545540,
+      "sha256": "382451bb7def7e5ff187af1d1d1f7f1c501e278e366a329ca69d3dae5f0810e4",
+      "pages": 32,
+      "review": "page_images_read"
+    },
+    {
+      "file": "课件3.pdf",
+      "source_path": "D:\\Downloads\\课件3.pdf",
+      "bytes": 2937225,
+      "sha256": "d225934505432c9968eea55e103d64b8241d17abe95a2307b6d19a3256133e15",
+      "pages": 38,
+      "review": "page_images_read"
+    },
+    {
+      "file": "课件4.pdf",
+      "source_path": "D:\\Downloads\\课件4.pdf",
+      "bytes": 3287395,
+      "sha256": "329b289763fd24145ed686d09a8ff9d8c17965c9d32cb0e9e6bedd6fa651e029",
+      "pages": 35,
+      "review": "page_images_read"
+    },
+    {
+      "file": "课件5.pdf",
+      "source_path": "D:\\Downloads\\课件5.pdf",
+      "bytes": 2644075,
+      "sha256": "3d53cbeb70d762206d35a7ec0c0a86313fb36c0e9ef971bba42c76ba19a71dca",
+      "pages": 29,
+      "review": "page_images_read"
+    },
+    {
+      "file": "课件6.pdf",
+      "source_path": "D:\\Downloads\\课件6.pdf",
+      "bytes": 2862966,
+      "sha256": "22dc50150ecb64ed1ef39270ecfc2579446d6f9829204da82f328893770c8bae",
+      "pages": 37,
+      "review": "page_images_read"
+    },
+    {
+      "file": "课件7.pdf",
+      "source_path": "D:\\Downloads\\课件7.pdf",
+      "bytes": 1827249,
+      "sha256": "fe8ec7d9ce7b850755c36c8239f03cf24403c46fc6f8b062566a6e1126398534",
+      "pages": 21,
+      "review": "page_images_read"
+    },
+    {
+      "file": "视频3.mp4",
+      "source_path": "D:\\Downloads\\视频3.mp4",
+      "bytes": 102983478,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified",
+      "transcript_characters": 8705
+    },
+    {
+      "file": "视频4.mp4",
+      "source_path": "D:\\Downloads\\视频4.mp4",
+      "bytes": 172097220,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified",
+      "transcript_characters": 14378
+    },
+    {
+      "file": "视频5.mp4",
+      "source_path": "D:\\Downloads\\视频5.mp4",
+      "bytes": 311110702,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified",
+      "transcript_characters": 24444
+    },
+    {
+      "file": "视频6.mp4",
+      "source_path": "D:\\Downloads\\视频6.mp4",
+      "bytes": 310364995,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified",
+      "transcript_characters": 20013
+    },
+    {
+      "file": "视频7.mp4",
+      "source_path": "D:\\Downloads\\视频7.mp4",
+      "bytes": 299192216,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified",
+      "transcript_characters": 20070
+    }
+  ],
+  "audio_transcription": [
+    {
+      "file": "视频3.mp4",
+      "asr": {
+        "segments": 855,
+        "duration": 2395.881375,
+        "elapsed": 75.1750476360321,
+        "model": "small",
+        "language": "zh"
+      },
+      "characters": 8705,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified"
+    },
+    {
+      "file": "视频4.mp4",
+      "asr": {
+        "segments": 1447,
+        "duration": 3541.7396875,
+        "elapsed": 120.95443940162659,
+        "model": "small",
+        "language": "zh"
+      },
+      "characters": 14378,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified"
+    },
+    {
+      "file": "视频5.mp4",
+      "asr": {
+        "segments": 2457,
+        "duration": 6330.363375,
+        "elapsed": 198.43369483947754,
+        "model": "small",
+        "language": "zh"
+      },
+      "characters": 24444,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified"
+    },
+    {
+      "file": "视频6.mp4",
+      "asr": {
+        "segments": 2061,
+        "duration": 5137.2756875,
+        "elapsed": 175.09048509597778,
+        "model": "small",
+        "language": "zh"
+      },
+      "characters": 20013,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified"
+    },
+    {
+      "file": "视频7.mp4",
+      "asr": {
+        "segments": 1990,
+        "duration": 5284.258,
+        "elapsed": 173.1523723602295,
+        "model": "small",
+        "language": "zh"
+      },
+      "characters": 20070,
+      "review": "complete_automatic_transcription; selected_passages_and_frames_cross_checked; not_manually_verbatim_verified"
+    }
+  ],
+  "scope": "Course-provided materials only; see chapter 00 and correction appendix"
+}
